@@ -1,1 +1,1 @@
-![Riley's GitHub stats](https://github-readme-stats.vercel.app/api?username=sadminriley&show_icons=true&theme=highcontrast)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadminriley)](https://github.com/sadminriley/github-readme-stats)
